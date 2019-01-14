@@ -10,9 +10,9 @@ Following our last lesson, here we will look at some more commonly used transfor
 
 You will be able to:
 
-* Perform data retrieval from RDDs for exploratory purpose.
-* Understand the use of `first()`, `take()` and `top()` for retrieving data from RDDs.
-* Use `reduce()` action to reduce elements of an RDD to a single value. 
+* Perform data retrieval from RDDs for exploratory purpose
+* Understand the use of `first()`, `take()` and `top()` for retrieving data from RDDs
+* Use `reduce()` action to reduce elements of an RDD to a single value
 * Sample data from RDDs using `takeSample()` and `countByValue()`
 
 ## Create RDDs

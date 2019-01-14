@@ -8,6 +8,8 @@ Following our last lesson, here we will look at some more commonly used transfor
 
 ## Objectives
 
+You will be able to:
+
 * Perform data retrieval from RDDs for exploratory purpose.
 * Understand the use of `first()`, `take()` and `top()` for retrieving data from RDDs.
 * Use `reduce()` action to reduce elements of an RDD to a single value. 
@@ -362,6 +364,7 @@ Finally, The `countByValue()` action returns the count of each unique value in t
 
 
 ## Additional Reading 
+
 - [RDD Transformations and Actions Summary](https://www.analyticsvidhya.com/blog/2016/10/using-pyspark-to-perform-transformations-and-actions-on-rdd/)
 
 ## Summary
